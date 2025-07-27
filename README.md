@@ -8,7 +8,10 @@
 
 ### 👨‍💻 About Me
 
-[cite_start]러시아어, 영어, 한국어 3개 국어를 구사하는 통역사로서, 다양한 산업 분야의 지식과 논리를 체득하며 성장했습니다. [cite: 279] [cite_start]급변하는 시장 속에서, 인간의 언어를 넘어 시스템을 구축하는 **'기술의 언어'**에 매료되어 개발자의 길을 선택했습니다. [cite: 281, 282] [cite_start]이제는 사람과 사람을 잇던 소통의 기술과 논리적인 개발 역량을 융합하여, 사용자와 기술 사이의 간극을 줄이는 **'소통의 허브'**가 되고자 합니다. [cite: 299] 꾸준한 학습과 책임감 있는 자세로, 함께 일하는 동료들에게 신뢰를 주는 개발자로 나아가겠습니다.
+러시아어, 영어, 한국어 3개 국어를 구사하는 통역사로서, 다양한 산업 분야의 지식과 논리를 체득하며 성장했습니다. 
+급변하는 시장 속에서, 인간의 언어를 넘어 시스템을 구축하는 **'기술의 언어'**에 매료되어 개발자의 길을 선택했습니다. 
+이제는 사람과 사람을 잇던 소통의 기술과 논리적인 개발 역량을 융합하여, 사용자와 기술 사이의 간극을 줄이는 **'소통의 허브'**가 되고자 합니다. 
+꾸준한 학습과 책임감 있는 자세로, 함께 일하는 동료들에게 신뢰를 주는 개발자로 나아가겠습니다.
 
 ---
 
@@ -25,3 +28,7 @@
 
 **<h4>Tools & Collaboration</h4>**
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=subversion&logoColor=white"/> <img src="https://img.shields.io/badge/Redmine-B32626?style=flat-square&logo=redmine&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+
+
+
+
