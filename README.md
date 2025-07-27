@@ -33,6 +33,35 @@
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=subversion&logoColor=white"/> <img src="https://img.shields.io/badge/Redmine-B32626?style=flat-square&logo=redmine&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 
+---
 
+### 🚀 Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/GENATHEHUMAN/DDTOWN/blob/main/README.md">
+        <img src="https://github.com/user-attachments/assets/e9dc66a4-b080-4284-a1e0-f9e418b3ad87" alt="DDTOWN Project Screenshot"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>DDTOWN (엔터테인먼트 관리 시스템)</h3>
+      <p>
+        아티스트와 팬의 실시간 소통을 위한 통합 플랫폼입니다. WebRTC 기반 라이브 스트리밍, WebSocket 채팅, 커뮤니티, 굿즈샵 등의 기능을 제공합니다.<br/><br/>
+        <strong>💡 저의 역할:</strong> Project Leader & Core Feature Developer
+      </p>
+      <div>
+        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=websocket&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+      </div>
+      <br/>
+      <a href="https://github.com/GENATHEHUMAN/DDTOWN"><strong>GitHub Repository &raquo;</strong></a>
+      <br/>
+      <a href="https://github.com/GENATHEHUMAN/DDTOWN/blob/main/README.md"><strong>프로젝트 상세 보기 &raquo;</strong></a>
+    </td>
+  </tr>
+</table>
 
 
