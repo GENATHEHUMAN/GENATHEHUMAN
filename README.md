@@ -59,7 +59,7 @@
       <br/>
       <a href="https://github.com/GENATHEHUMAN/DDTOWN"><strong>GitHub Repository &raquo;</strong></a>
       <br/>
-      <a href="https://github.com/GENATHEHUMAN/DDTOWN/blob/main/README.md"><strong>프로젝트 상세 보기 &raquo;</strong></a>
+      <a href="https://github.com/GENATHEHUMAN/DDTOWN/tree/main/docs/README.md"><strong>프로젝트 상세 보기 &raquo;</strong></a>
     </td>
   </tr>
 </table>
